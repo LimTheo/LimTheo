@@ -3,7 +3,7 @@
 
 <p>
   <a href="https://ellison98.tistory.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/theo-im-2a2487219/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/theo-lim-2a2487219/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="mailto:imtheo9851@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/imtheo9851@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
