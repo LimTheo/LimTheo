@@ -27,3 +27,21 @@
 <!-- ## Baekjoon -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=in3300)](https://solved.ac/in3300) -->
 <!-- ================================================================================================================================================================ -->
+
+<br/>
+
+<a href="https://limtheo.github.io/" 
+     target="_blank"
+     style="background: linear-gradient(90deg, #0284c7, #22d3ee); 
+            color: white; 
+            padding: 16px 40px; 
+            border-radius: 9999px; 
+            font-weight: 700; 
+            font-size: 18px; 
+            text-decoration: none; 
+            display: inline-flex; 
+            align-items: center; 
+            gap: 10px;
+            box-shadow: 0 10px 30px rgba(2,132,199,0.3);">
+    ✨ 포트폴리오 링크 →
+  </a>
