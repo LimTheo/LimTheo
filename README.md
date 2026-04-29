@@ -30,7 +30,7 @@
 
 <br/>
 
-<a href="https://limtheo.github.io/" 
+<!-- <a href="https://limtheo.github.io/" 
      target="_blank"
      style="background: linear-gradient(90deg, #0284c7, #22d3ee); 
             color: white; 
@@ -44,4 +44,4 @@
             gap: 10px;
             box-shadow: 0 10px 30px rgba(2,132,199,0.3);">
     ✨ 포트폴리오 링크 →
-  </a>
+  </a> -->
